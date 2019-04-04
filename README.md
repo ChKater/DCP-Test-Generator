@@ -1,7 +1,7 @@
 # DCP-Test-Generator
 The dcp-test-generator generates from a dcp slave description a graph containing test cases which tests a dcp slave implmementation. The generated file can then be used by the DCP-Tester to execute the tests. 
 
-Take a look at [test-coverage](wiki) to see which parts of the dcp protocol will be tested. 
+Take a look at [test-coverage](https://github.com/ChKater/dcp-test-generator/wiki/Test-Coverage) to see which parts of the dcp protocol will be tested. 
 
 ### Usage of the DCP-Test-Generator
 ```
